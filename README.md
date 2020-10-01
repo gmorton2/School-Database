@@ -27,11 +27,9 @@ and telephone number. Each student majors in one department and may minor in sev
 and a grade.
 
 Design your database and create at least the following numbers of records:
-____________________________________________
-8 students| 2 departments| 3 professors     |
-__________|______________|__________________|
-4 courses |6 sections| 20 enrollment records|
-__________|__________|______________________|
+
+8 students, 2 departments, 3 professors     
+4 courses, 6 sections, 20 enrollment records
 
 You should provide interfaces for the following individuals:
 
