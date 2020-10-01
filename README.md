@@ -1,3 +1,4 @@
+
 # School-Database
 This project will used MySQL database and PHP to build a web database application. 
 
